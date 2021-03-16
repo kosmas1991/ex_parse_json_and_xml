@@ -1,0 +1,27 @@
+<data>
+    <contact>
+        <name>Lebron JamesXML</name>
+        <email>ljames@gmail.com</email>
+        <age>34</age>
+    </contact>
+    <contact>
+        <name>Giannis AntenkokounmpoXML</name>
+        <email>greekfreak@gmail.com</email>
+        <age>25</age>
+    </contact>
+    <contact>
+        <name>Stephen Curry</name>
+        <email>scurry@gmail.com</email>
+        <age>30</age>
+    </contact>
+    <contact>
+        <name>James Harden</name>
+        <email>jharden13@gmail.com</email>
+        <age>32</age>
+    </contact>
+    <contact>
+        <name>Zion Williamson</name>
+        <email>zwilliamson@gmail.com</email>
+        <age>24</age>
+    </contact>
+</data>

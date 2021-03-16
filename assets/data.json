@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Lebron James",
+    "email": "ljames@gmail.com",
+    "age": 34
+  },
+  {
+    "name": "Giannis Antenkokounmpo",
+    "email": "greekfreak@gmail.com",
+    "age": 25
+  },
+  {
+    "name": "Stephen Curry",
+    "email": "scurry@gmail.com",
+    "age": 30
+  },
+  {
+    "name": "James Harden",
+    "email": "jharden13@gmail.com",
+    "age": 32
+  },
+  {
+    "name": "Zion Williamson",
+    "email": "zwilliamson@gmail.com",
+    "age": 24
+  }
+]
